@@ -1,7 +1,11 @@
 # Project.DBMS--CodeSync---Multilingual-Music-Conversion-Service-Web-Development-Using-Docker-Flask
 Docker &amp; Flask를 활용한 다국어 음악 변환 서비스 웹 개발
 
-
+<p align="right">
+  <a href="https://blog.naver.com/pixelwizard/223311471757">
+    <img src="https://img.shields.io/badge/한국어%20번역본-03C75A?style=flat-square&logo=Naver&logoColor=white" alt="네이버 블로그">
+  </a> </p>  
+  
 <img width="1108" alt="flask 앱 화면 구성" src="https://github.com/pixelwizard2/Project.DBMS--CodeSync---Multilingual-Music-Conversion-Service-Web-Development-Using-Docker-Flask/assets/138272416/72a7ee67-9e97-4bde-9de6-f312790cd464">
 
 **※ Development Period: January 3, 2024, to January 4, 2024**
@@ -11,6 +15,7 @@ Docker &amp; Flask를 활용한 다국어 음악 변환 서비스 웹 개발
 
 "Melody Matrix" is a multilingual music conversion web service, built through containerization on a Docker base. This platform utilizes Visual Studio and a Flask app to enable users to easily convert songs produced in any language into their selected target language. This project serves as a bridge in global culture, offering a new dimension in language learning through music.
 
+<br> <br>
 
 ## 2. Project Goals: Building and Applying a Multimodal AI Language Conversion System (프로젝트 진행 목표)
 
@@ -22,11 +27,13 @@ The primary goal of this project is to combine advanced Python audio processing 
 
 **3. Establishing a Foundation for Professional IT Competence:** Implementing a real project using various programming languages, frameworks, and tools will lay the groundwork for becoming an IT professional and enhance competitiveness in this field.
 
+<br> <br>
 
 ## 3. Anticipated Project Outcomes (프로젝트 진행 예상 기대 효과)
 
 This project respects the universal value and diversity of music and contributes to connecting various languages and cultures. The evaluation criteria include user feedback, service availability, and the accuracy and naturalness of music conversion. "Melody Matrix" is expected to provide a deeper musical experience for users and offer an innovative approach to language learning.
 
+<br> <br>
 
 ## 4. Technology Stack and Development Phases(기술 스택 및 개발 단계)
 
@@ -39,8 +46,8 @@ This project respects the universal value and diversity of music and contributes
 
 (Reference files attached as a result of successfully converting a test song.mp3 file into an English.mp3 file, edited to include only the Korean voice parts, using Python on Google Colab.)
 
-[Test music(Before).mp3 다운로드](./Test%20music(Before).mp3)
-[Final Song (After).mp3 다운로드](./Final_Song%20(After).mp3)
+- [Test music(Before).mp3 download](./Test%20music(Before).mp3)
+- [Final Song (After).mp3 download](./Final_Song%20(After).mp3)
 
 
 
@@ -60,8 +67,7 @@ This project respects the universal value and diversity of music and contributes
 - Designing the web interface with HTML and CSS for user-friendly frontend development.
 - Designing and implementing a RESTful API for data exchange with the frontend.
 
-
-
+<br> <br>
 
 ## 5. Challenges and Solutions During Development (문제 발생 해결 부분)
 
@@ -85,6 +91,7 @@ This project respects the universal value and diversity of music and contributes
 
 <img width="1280" alt="도커 오류" src="https://github.com/pixelwizard2/Project.DBMS--CodeSync---Multilingual-Music-Conversion-Service-Web-Development-Using-Docker-Flask/assets/138272416/216fbcd9-d74a-455e-8d16-6fbc49042df9">
 
+<br> <br>
 
 ## 6. Post-Project Evaluation (프로젝트 진행 후 평가)
 
@@ -94,6 +101,7 @@ This project respects the universal value and diversity of music and contributes
 
 - Future projects will prioritize reviewing the compatibility of libraries and frameworks used in the executable code for web integration. By considering these aspects in planning and execution, I aim to achieve better outcomes in future projects.
 
+<br> <br>
 
 ## 7. Future Project Development Plans (추후 개발 반영 계획)
 
