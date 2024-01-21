@@ -60,21 +60,27 @@ This project respects the universal value and diversity of music and contributes
 
 
 
-Challenges and Solutions During Development:
+## 5. Challenges and Solutions During Development (진행 과정 중 문제 발생 해결 부분)
 
-Integration of Docker Container and Flask Application:
+**(1) Integration of Docker Container and Flask Application:**
 
-Initially faced a "curl: command not found" error when trying to access localhost with curl command in the Docker container.
-Successfully sent requests to the Flask application using the Python code with the requests library.
-Functionality Check of Web Page in Flask Application:
+- Initially faced a "curl: command not found" error when trying to access localhost with curl command in the Docker container.
+- Successfully sent requests to the Flask application using the Python code with the requests library.
 
-Confirmed the proper functioning of receiving and sending requests in the Flask application.
-Encountered an "ERR_EMPTY_RESPONSE" error in the browser after initially receiving responses like "Hello!" from the web page.
-Firewall Settings and Various Attempts:
 
-Adjusted firewall settings and added port 5000, but it did not resolve the issue.
-Attempted to configure the settings for running FFmpeg (an open-source multimedia framework) within the Docker virtual environment, but the web page still did not operate correctly.
-Modified the command to run the Flask web application, but the issue persisted.
+**(2) Functionality Check of Web Page in Flask Application:**
+
+- Confirmed the proper functioning of receiving and sending requests in the Flask application.
+- Encountered an "ERR_EMPTY_RESPONSE" error in the browser after initially receiving responses like "Hello!" from the web page.
+
+
+**(3) Firewall Settings and Various Attempts:**
+
+- Adjusted firewall settings and added port 5000, but it did not resolve the issue.
+- Attempted to configure the settings for running FFmpeg (an open-source multimedia framework) within the Docker virtual environment, but the web page still did not operate correctly.
+- Modified the command to run the Flask web application, but the issue persisted.
+
+
 Post-Project Evaluation:
 
 The project encountered compatibility issues between the Python code and the Flask application, leading to errors on the web. This was a disappointing aspect as the Python code did not function smoothly on the web.
