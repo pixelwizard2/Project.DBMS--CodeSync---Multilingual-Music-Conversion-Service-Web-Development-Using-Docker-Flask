@@ -2,7 +2,7 @@
 Docker &amp; Flask를 활용한 다국어 음악 변환 서비스 웹 개발
 
 
-
+<img width="1108" alt="flask 앱 화면 구성" src="https://github.com/pixelwizard2/Project.DBMS--CodeSync---Multilingual-Music-Conversion-Service-Web-Development-Using-Docker-Flask/assets/138272416/72a7ee67-9e97-4bde-9de6-f312790cd464">
 
 **※ Development Period: January 3, 2024, to January 4, 2024**
 
@@ -39,6 +39,8 @@ This project respects the universal value and diversity of music and contributes
 
 (Reference files attached as a result of successfully converting a test song.mp3 file into an English.mp3 file, edited to include only the Korean voice parts, using Python on Google Colab.)
 
+[Test music(Before).mp3 다운로드](./Test%20music(Before).mp3)
+[Final Song (After).mp3 다운로드](./Final_Song%20(After).mp3)
 
 
 
@@ -46,6 +48,7 @@ This project respects the universal value and diversity of music and contributes
 
 - Writing a Dockerfile to set up the environment required for running the Python application.
 
+<img width="1280" alt="도커 컨테이너 연동" src="https://github.com/pixelwizard2/Project.DBMS--CodeSync---Multilingual-Music-Conversion-Service-Web-Development-Using-Docker-Flask/assets/138272416/1752d355-cfb4-4952-a8c2-67ef19fa09c7">
 
 - Using Docker Compose to orchestrate and manage multiple containers.
 - Deploying the completed Docker image on Docker Hub, with version control and distribution.
@@ -80,6 +83,8 @@ This project respects the universal value and diversity of music and contributes
 - Attempted to configure the settings for running FFmpeg (an open-source multimedia framework) within the Docker virtual environment, but the web page still did not operate correctly.
 - Modified the command to run the Flask web application, but the issue persisted.
 
+<img width="1280" alt="도커 오류" src="https://github.com/pixelwizard2/Project.DBMS--CodeSync---Multilingual-Music-Conversion-Service-Web-Development-Using-Docker-Flask/assets/138272416/216fbcd9-d74a-455e-8d16-6fbc49042df9">
+
 
 ## 6. Post-Project Evaluation (프로젝트 진행 후 평가)
 
@@ -104,3 +109,5 @@ Improving user interface: Applying UX design principles for a responsive web des
 Cloud Hosting: Hosting and managing the web application through cloud services (e.g., AWS, Google Cloud).
 Security Protocols: Implementing security protocols like HTTPS to protect user data.
 Performance Monitoring: Applying tools to monitor and optimize the performance of the web application.
+
+![Best-AI-Music-Generator-to-Start-Composing-Melodies-5](https://github.com/pixelwizard2/Project.DBMS--CodeSync---Multilingual-Music-Conversion-Service-Web-Development-Using-Docker-Flask/assets/138272416/78c9861a-37df-4803-968b-da03e6fc99e8)
