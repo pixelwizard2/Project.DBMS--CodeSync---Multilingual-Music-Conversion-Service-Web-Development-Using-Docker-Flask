@@ -60,7 +60,7 @@ This project respects the universal value and diversity of music and contributes
 
 
 
-## 5. Challenges and Solutions During Development (진행 과정 중 문제 발생 해결 부분)
+## 5. Challenges and Solutions During Development (문제 발생 해결 부분)
 
 **(1) Integration of Docker Container and Flask Application:**
 
@@ -81,22 +81,25 @@ This project respects the universal value and diversity of music and contributes
 - Modified the command to run the Flask web application, but the issue persisted.
 
 
-Post-Project Evaluation:
+## 6. Post-Project Evaluation (프로젝트 진행 후 평가)
 
-The project encountered compatibility issues between the Python code and the Flask application, leading to errors on the web. This was a disappointing aspect as the Python code did not function smoothly on the web.
+- The project encountered compatibility issues between the Python code and the Flask application, leading to errors on the web. This was a disappointing aspect as the Python code did not function smoothly on the web.
 
-However, the project successfully achieved one of its main goals by properly integrating the Flask app with the Docker container. Excluding the compatibility issue with the existing code, the integration with the web was successful.
+- However, the project successfully achieved one of its main goals by properly integrating the Flask app with the Docker container. Excluding the compatibility issue with the existing code, the integration with the web was successful.
 
-Future projects will prioritize reviewing the compatibility of libraries and frameworks used in the executable code for web integration. By considering these aspects in planning and execution, I aim to achieve better outcomes in future projects.
+- Future projects will prioritize reviewing the compatibility of libraries and frameworks used in the executable code for web integration. By considering these aspects in planning and execution, I aim to achieve better outcomes in future projects.
 
-Future Project Development Plans:
 
-Full-Stack Web Development:
+## 7. Future Project Development Plans (추후 개발 반영 계획)
+
+- **(1) Full-Stack Web Development:**
 
 Expanding backend functions using Flask for managing user file uploads and conversion processes.
 Implementing an interactive web interface using Flask and Jinja templates for dynamic web page creation, and applying CSS frameworks for responsive design and usability enhancement.
 Improving user interface: Applying UX design principles for a responsive web design that is easy to use on both mobile and desktop environments.
-Service Expansion and Optimization:
+
+
+- **(2) Service Expansion and Optimization:**
 
 Cloud Hosting: Hosting and managing the web application through cloud services (e.g., AWS, Google Cloud).
 Security Protocols: Implementing security protocols like HTTPS to protect user data.
