@@ -39,9 +39,9 @@ This project respects the universal value and diversity of music and contributes
 
 ## 4. Technology Stack and Development Phases(기술 스택 및 개발 단계)
 
-**(1) Voice Conversion Algorithm Development** **(Completed / December 30, 2023):**  
-
 ![화면 캡처 2024-01-21 175135](https://github.com/pixelwizard2/Project.DBMS--CodeSync---Multilingual-Music-Conversion-Service-Web-Development-Using-Docker-Flask/assets/138272416/14ea976a-7592-43d2-8d8f-bdb6b1c1c5fd)
+
+**(1) Voice Conversion Algorithm Development** **(Completed / December 30, 2023):**  
 
 _[Attached Python code & scripts above]_
 
