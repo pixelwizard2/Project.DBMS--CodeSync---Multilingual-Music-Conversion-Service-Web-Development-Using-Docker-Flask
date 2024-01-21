@@ -7,6 +7,7 @@ _다국어 음악 변환 서비스 웹 개발 (Docker &amp; Flask 활용)_
   </a> </p>  
   
 <img width="1108" alt="flask 앱 화면 구성" src="https://github.com/pixelwizard2/Project.DBMS--CodeSync---Multilingual-Music-Conversion-Service-Web-Development-Using-Docker-Flask/assets/138272416/72a7ee67-9e97-4bde-9de6-f312790cd464">
+<br>
 
 **※ Development Period: January 3, 2024, to January 4, 2024**
 
