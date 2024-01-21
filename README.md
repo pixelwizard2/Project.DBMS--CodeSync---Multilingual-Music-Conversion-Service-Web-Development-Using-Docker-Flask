@@ -1,5 +1,5 @@
 # Project.DBMS--CodeSync---Multilingual-Music-Conversion-Service-Web-Development-Using-Docker-Flask
-_Docker &amp; Flask를 활용한 다국어 음악 변환 서비스 웹 개발_
+_다국어 음악 변환 서비스 웹 개발 (Docker &amp; Flask 활용)_
 
 <p align="right">
   <a href="https://blog.naver.com/pixelwizard/223311471757">
