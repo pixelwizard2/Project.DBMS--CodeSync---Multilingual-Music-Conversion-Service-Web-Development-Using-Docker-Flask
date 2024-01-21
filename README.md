@@ -42,16 +42,24 @@ This project respects the universal value and diversity of music and contributes
 
 
 
-Docker Image Build and Deployment (Completed / December 31, 2023):
+**(2) Docker Image Build and Deployment (Completed / December 31, 2023):**
 
-Writing a Dockerfile to set up the environment required for running the Python application.
-Using Docker Compose to orchestrate and manage multiple containers.
-Deploying the completed Docker image on Docker Hub, with version control and distribution.
-Preparation Phase for Flask Web Application Development (Completed / January 3, 2024):
+- Writing a Dockerfile to set up the environment required for running the Python application.
 
-Building the frontend using Flask and HTML/CSS, including file upload forms on the web page and configuring the Flask server to receive files.
-Designing the web interface with HTML and CSS for user-friendly frontend development.
-Designing and implementing a RESTful API for data exchange with the frontend.
+
+- Using Docker Compose to orchestrate and manage multiple containers.
+- Deploying the completed Docker image on Docker Hub, with version control and distribution.
+
+
+**(3) Preparation Phase for Flask Web Application Development (Completed / January 3, 2024):**
+
+- Building the frontend using Flask and HTML/CSS, including file upload forms on the web page and configuring the Flask server to receive files.
+- Designing the web interface with HTML and CSS for user-friendly frontend development.
+- Designing and implementing a RESTful API for data exchange with the frontend.
+
+
+
+
 Challenges and Solutions During Development:
 
 Integration of Docker Container and Flask Application:
