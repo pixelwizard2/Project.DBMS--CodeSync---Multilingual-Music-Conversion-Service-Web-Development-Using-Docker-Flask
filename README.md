@@ -39,8 +39,8 @@ This project respects the universal value and diversity of music and contributes
 
 ## 4. Technology Stack and Development Phases(기술 스택 및 개발 단계)
 
-**(1) Voice Conversion Algorithm Development** **(Completed / December 30, 2023):**
-
+**(1) Voice Conversion Algorithm Development** **(Completed / December 30, 2023):**  
+[Attached Python code & scripts above]
 
 - Utilizing Python for audio data processing to accurately convert original language audio into target language audio.
 - Using Python libraries such as librosa, SpeechRecognition, gTTS for efficient voice recognition and translation processing.
