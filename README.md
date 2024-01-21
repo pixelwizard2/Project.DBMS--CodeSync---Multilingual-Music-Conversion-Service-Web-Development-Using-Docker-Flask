@@ -21,6 +21,7 @@ _다국어 음악 변환 서비스 웹 개발 (Docker &amp; Flask 활용)_
 ## 2. Project Goals: Building and Applying a Multimodal AI Language Conversion System (프로젝트 진행 목표)
 
 The primary goal of this project is to combine advanced Python audio processing capabilities with Flask-based web development skills to construct a Docker-based web application and apply multimodal AI technology in a practical setting. Through this process, I aim to achieve the following:
+<br>
 
 **1. Enhanced Integration and Application Skills:** By integrating advanced audio processing and translation algorithms in Python with Flask-based web development, this project aims to improve the ability to apply multimodal AI technology in a web environment.
 
@@ -49,8 +50,7 @@ This project respects the universal value and diversity of music and contributes
 
 - [Test music(Before).mp3 download](./Test%20music(Before).mp3)
 - [Final Song (After).mp3 download](./Final_Song%20(After).mp3)
-
-
+<br>
 
 **(2) Docker Image Build and Deployment (Completed / December 31, 2023):**
 
@@ -60,7 +60,7 @@ This project respects the universal value and diversity of music and contributes
 
 - Using Docker Compose to orchestrate and manage multiple containers.
 - Deploying the completed Docker image on Docker Hub, with version control and distribution.
-
+<br>
 
 **(3) Preparation Phase for Flask Web Application Development (Completed / January 3, 2024):**
 
@@ -76,13 +76,13 @@ This project respects the universal value and diversity of music and contributes
 
 - Initially faced a "curl: command not found" error when trying to access localhost with curl command in the Docker container.
 - Successfully sent requests to the Flask application using the Python code with the requests library.
-
+<br>
 
 **(2) Functionality Check of Web Page in Flask Application:**
 
 - Confirmed the proper functioning of receiving and sending requests in the Flask application.
 - Encountered an "ERR_EMPTY_RESPONSE" error in the browser after initially receiving responses like "Hello!" from the web page.
-
+<br>
 
 **(3) Firewall Settings and Various Attempts:**
 
@@ -111,7 +111,7 @@ This project respects the universal value and diversity of music and contributes
 Expanding backend functions using Flask for managing user file uploads and conversion processes.
 Implementing an interactive web interface using Flask and Jinja templates for dynamic web page creation, and applying CSS frameworks for responsive design and usability enhancement.
 Improving user interface: Applying UX design principles for a responsive web design that is easy to use on both mobile and desktop environments.
-
+<br>
 
 - **(2) Service Expansion and Optimization:**
 
